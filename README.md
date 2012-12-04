@@ -31,7 +31,6 @@ Windows:
 
 ### To build the documentation:
 <a href="https://runnable.com/#sundip/ecstatic/server.js/launch" target="_blank"><img src="https://runnable.com/external/styles/assets/runnablebtn.png" style="width:67px;height:25px;"></a>
-
     make doc
 
 ### To read the documentation:
@@ -39,6 +38,7 @@ Windows:
     man doc/node.1
 
 Resources for Newcomers
+<a href="https://runnable.com/#sundip/ecstatic/server.js/launch" target="_blank"><img src="https://runnable.com/external/styles/assets/runnablebtn.png" style="width:67px;height:25px;"></a>
 ---
   - [The Wiki](https://github.com/joyent/node/wiki)
   - [nodejs.org](http://nodejs.org/)
